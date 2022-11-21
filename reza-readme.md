@@ -18,6 +18,10 @@ https://www.folkstalk.com/2022/10/downgrade-python-3-8-to-3-7-ubuntu-with-code-e
 
 # Create Python 3.7 virtual environment and activate it
 
+`python3.7 -m venv venv`
+
+`source venv/bin/activate`
+
 # Install Python packages
 
 `pip install stable-baselines`
