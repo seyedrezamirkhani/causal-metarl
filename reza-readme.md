@@ -16,6 +16,8 @@ https://www.folkstalk.com/2022/10/downgrade-python-3-8-to-3-7-ubuntu-with-code-e
 
 `sudo apt-get install python3.7`
 
+# Install venv for Python 3.7
+
 `sudo apt install python3.7-venv`
 
 # Create Python 3.7 virtual environment and activate it
